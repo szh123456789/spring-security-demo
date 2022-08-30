@@ -1,0 +1,5 @@
+spring:
+  security:
+    user:
+      name: smallming
+      password: smallming
