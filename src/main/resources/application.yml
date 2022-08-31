@@ -3,3 +3,9 @@ spring:
     user:
       name: smallming
       password: smallming
+
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/testdb?useSSL=false
+    username: root
+    password: 123
